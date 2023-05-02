@@ -8,7 +8,7 @@ csv y excel. Se realizara una limpieza de los archivo y sera cargado a un almace
 [![Arquitectura-Web-Scraping-to-Postgre-SQL-drawio.png](https://i.postimg.cc/XvkpLr24/Arquitectura-Web-Scraping-to-Postgre-SQL-drawio.png)](https://postimg.cc/mchL2gf5)
 
 ### Tecnologias y herramientas utilizadas:
-- Python, VSCODE, PostgreSQL, DBeaver
+- Python v3.9, VSCODE, PostgreSQL, DBeaver
 
 ### Explicación Youtube
 (PROXIMAMENTE)
