@@ -10,7 +10,7 @@ csv y excel. Se realizara una limpieza de los archivo y sera cargado a un almace
 ### Tecnologias y herramientas utilizadas:
 - Python v3.9, VSCODE, PostgreSQL, DBeaver
 
-### Explicación Youtube
+### Explicación y Demo en Youtube
 (PROXIMAMENTE)
 
 
